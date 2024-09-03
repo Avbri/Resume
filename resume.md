@@ -65,25 +65,24 @@ MAY 2018 - SEPTEMBER 2019
 <img src="img\amigo.jpg" alt="Amigo" width="200" height="300">
 
 ### **AMIGO**
-  * Migo
-  * Migos
-  * Omeegoh
-  * Meegus
-  * Schmeagle
-  * Little Dawg
+
+* Migo
+* Migos
+* Omeegoh
+* Meegus
+* Schmeagle
+* Little Dawg
 
 
 
 
 <img src="img\levy.jpg" alt="Levy" width="200" height="300">
 
-
-
 ### **LEVY**
-  * Leven
-  * Leviathan
-  * Leviticus
-  * Leavened Bread
-  * LevyBo
-  * Flev
+* Leven
+* Leviathan
+* Leviticus
+* Leavened Bread
+* LevyBo
+* Flev
   </details>
