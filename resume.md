@@ -66,27 +66,27 @@ MAY 2018 - SEPTEMBER 2019
 <details>
 
 
-<summary>  ABOUT MY DOGS </summary>
+<summary> ABOUT MY DOGS </summary>
 
 ### **AMIGO**
- * Migo
- * Migos
- * Omeegoh
- * Meegus
- * Schmeagle
- * Little Dawg
+  * Migo
+  * Migos
+  * Omeegoh
+  * Meegus
+  * Schmeagle
+  * Little Dawg
 
 ![AMIGO](img\PXL_20211104_210932759.PORTRAIT.jpg)
 
 ### **LEVY**
- * Leven
- * Leviathan
- * Leviticus
- * Leavened Bread
- * LevyBo
- * Flev
-![**LEVY**](img\PXL_20210227_023503049.PORTRAIT.jpg)
+  * Leven
+  * Leviathan
+  * Leviticus
+  * Leavened Bread
+  * LevyBo
+  * Flev
+![LEVY](img\PXL_20210227_023503049.PORTRAIT.jpg)
 
 </details>
 
-![wickles](00100lrPORTRAIT_00100_BURST20200804220637427_COVER.jpg)
+![wickles](img\00100lrPORTRAIT_00100_BURST20200804220637427_COVER.jpg)
