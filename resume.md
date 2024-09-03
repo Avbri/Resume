@@ -64,7 +64,7 @@ MAY 2018 - SEPTEMBER 2019
 
 ### **AMIGO**
 
-<img src="img\amigo.jpg" alt="AMigo" width="500" height="600">
+<img src="img\amigo.jpg" alt="Amigo" width="200" height="300">
 
   * Migo
   * Migos
@@ -81,4 +81,4 @@ MAY 2018 - SEPTEMBER 2019
   * LevyBo
   * Flev
 
-  <img src="img\levy.jpg" alt="Levy" width="500" height="600">
+  <img src="img\levy.jpg" alt="Levy" width="200" height="300">
