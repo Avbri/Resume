@@ -1,19 +1,14 @@
 # **AUBRI PEREZ** 
-
-
 ### EDUCATION
-
-**Appalachian State University**
-
-[B.S.-Building Sciences - Construction Management](https://www.appstate.edu/academics/majors/id/building-sciences-construction-management
-)
+#### **Appalachian State University** 
+###### *AUGUST 2021 - PRESENT*
+[B.S.-Building Sciences - Construction Management](https://www.appstate.edu/academics/majors/id/building-sciences-construction-management)
 Minor in Community and Regional Planning
 Certificate in Geographic Information Systems
 
-AUGUST 2021 - PRESENT
 
 **Caldwell Community College and Technical Institute**
- Associate in Science
+Associate in Science
 AUGUST 2019 - MAY 2021
 
 
@@ -64,7 +59,7 @@ MAY 2018 - SEPTEMBER 2019
 
 <img src="img\amigo.jpg" alt="Amigo" width="200" height="300">
 
-### **AMIGO**
+#### **AMIGO**
 
 * Migo
 * Migos
@@ -78,7 +73,7 @@ MAY 2018 - SEPTEMBER 2019
 
 <img src="img\levy.jpg" alt="Levy" width="200" height="300">
 
-### **LEVY**
+#### **LEVY**
 * Leven
 * Leviathan
 * Leviticus
